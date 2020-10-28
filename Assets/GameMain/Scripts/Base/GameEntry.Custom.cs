@@ -7,7 +7,7 @@
 
 using UnityEngine;
 
-namespace StarForce
+namespace Hearthstone
 {
     /// <summary>
     /// 游戏入口。

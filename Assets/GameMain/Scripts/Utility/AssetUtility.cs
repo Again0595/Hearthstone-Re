@@ -7,7 +7,7 @@
 
 using GameFramework;
 
-namespace StarForce
+namespace Hearthstone
 {
     public static class AssetUtility
     {

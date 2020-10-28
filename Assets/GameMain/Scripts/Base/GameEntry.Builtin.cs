@@ -8,7 +8,7 @@
 using UnityEngine;
 using UnityGameFramework.Runtime;
 
-namespace StarForce
+namespace Hearthstone
 {
     /// <summary>
     /// 游戏入口。

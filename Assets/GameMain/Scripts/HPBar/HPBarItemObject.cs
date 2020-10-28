@@ -9,7 +9,7 @@ using GameFramework;
 using GameFramework.ObjectPool;
 using UnityEngine;
 
-namespace StarForce
+namespace Hearthstone
 {
     public class HPBarItemObject : ObjectBase
     {

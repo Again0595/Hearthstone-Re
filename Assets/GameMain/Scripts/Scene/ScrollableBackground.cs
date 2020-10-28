@@ -7,7 +7,7 @@
 
 using UnityEngine;
 
-namespace StarForce
+namespace Hearthstone
 {
     public class ScrollableBackground : MonoBehaviour
     {

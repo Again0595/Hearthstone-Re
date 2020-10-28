@@ -9,7 +9,7 @@ using GameFramework;
 using GameFramework.DataTable;
 using UnityEngine;
 
-namespace StarForce
+namespace Hearthstone
 {
     public class SurvivalGame : GameBase
     {

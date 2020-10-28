@@ -7,7 +7,7 @@
 
 using System.IO;
 
-namespace StarForce.Editor.DataTableTools
+namespace Hearthstone.Editor.DataTableTools
 {
     public sealed partial class DataTableProcessor
     {

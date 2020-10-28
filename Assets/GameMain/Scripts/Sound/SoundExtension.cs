@@ -10,7 +10,7 @@ using GameFramework.DataTable;
 using GameFramework.Sound;
 using UnityGameFramework.Runtime;
 
-namespace StarForce
+namespace Hearthstone
 {
     public static class SoundExtension
     {

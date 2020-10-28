@@ -9,7 +9,7 @@ using GameFramework.Event;
 using UnityEngine;
 using UnityGameFramework.Runtime;
 
-namespace StarForce
+namespace Hearthstone
 {
     public abstract class GameBase
     {

@@ -7,7 +7,7 @@
 
 using UnityEngine;
 
-namespace StarForce
+namespace Hearthstone
 {
     public static partial class Constant
     {

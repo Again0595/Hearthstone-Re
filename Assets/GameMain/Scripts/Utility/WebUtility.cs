@@ -7,7 +7,7 @@
 
 using System;
 
-namespace StarForce
+namespace Hearthstone
 {
     public static class WebUtility
     {
