@@ -1,7 +1,13 @@
 fileFormatVersion: 2
-guid: 36a216017898f00449a3137caf1146b5
+guid: a3f698d6f56b53247a9c561ff9074156
 TextureImporter:
-  internalIDToNameTable: []
+  internalIDToNameTable:
+  - first:
+      213: -3707139533492082446
+    second: ea34ba0 (6)_0
+  - first:
+      213: -1741187100224647462
+    second: ea34ba0 (6)_1
   externalObjects: {}
   serializedVersion: 10
   mipmaps:
@@ -20,7 +26,7 @@ TextureImporter:
     externalNormalMap: 0
     heightScale: 0.25
     normalMapFilter: 0
-  isReadable: 0
+  isReadable: 1
   streamingMipmaps: 0
   streamingMipmapsPriority: 0
   grayScaleToAlpha: 0
@@ -40,7 +46,7 @@ TextureImporter:
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 1
+  spriteMode: 2
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
@@ -96,7 +102,49 @@ TextureImporter:
     forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
-    sprites: []
+    sprites:
+    - serializedVersion: 2
+      name: ea34ba0 (6)_0
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 389
+        width: 391
+        height: 123
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f8a56d4c389d8cc0800000000000000
+      internalID: -3707139533492082446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ea34ba0 (6)_1
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 173
+        width: 498
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ade0e9bbe8f06d7e0800000000000000
+      internalID: -1741187100224647462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     physicsShape: []
     bones: []

@@ -101,7 +101,7 @@ namespace Hearthstone
             LoadDictionary("Default");
 
             // Preload fonts
-            LoadFont("MainFont");
+            LoadFont("CuteFont");
         }
 
         private void LoadConfig(string configName)

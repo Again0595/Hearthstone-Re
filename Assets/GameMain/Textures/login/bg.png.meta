@@ -777,12 +777,12 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 0
-        y: 0
-        width: 2048
+        y: 9
+        width: 2043
         height: 1154
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
+      border: {x: 117, y: 47, z: 116, w: 67}
       outline: []
       physicsShape: []
       tessellationDetail: 0

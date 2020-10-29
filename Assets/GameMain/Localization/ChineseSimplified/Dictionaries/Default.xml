@@ -10,6 +10,7 @@
     <String Key="Menu.SettingButton" Value="设置" />
     <String Key="Menu.AboutButton" Value="关于" />
     <String Key="Menu.QuitButton" Value="退出" />
+    <String Key="Menu.Task" Value="任务" />
     <String Key="Dialog.ConfirmButton" Value="确定" />
     <String Key="Dialog.CancelButton" Value="取消" />
     <String Key="Dialog.OtherButton" Value="" />
@@ -24,6 +25,6 @@
     <String Key="Setting.Sound" Value="音效" />
     <String Key="Setting.UISound" Value="界面音效" />
     <String Key="Setting.Language" Value="语言" />
-    <String Key="Setting.LanguageTips" Value="更改语言需要重启游戏" />
+    <String Key="Setting.LanguageTips" Value="更改语言需要重启游戏" />‘
   </Dictionary>
 </Dictionaries>
